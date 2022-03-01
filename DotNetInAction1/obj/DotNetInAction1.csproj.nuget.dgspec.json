@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\programming\\.net\\DotNetInAction1\\DotNetInAction1\\DotNetInAction1.csproj": {}
+  },
+  "projects": {
+    "E:\\programming\\.net\\DotNetInAction1\\DotNetInAction1\\DotNetInAction1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\programming\\.net\\DotNetInAction1\\DotNetInAction1\\DotNetInAction1.csproj",
+        "projectName": "DotNetInAction1",
+        "projectPath": "E:\\programming\\.net\\DotNetInAction1\\DotNetInAction1\\DotNetInAction1.csproj",
+        "packagesPath": "C:\\Users\\emely\\.nuget\\packages\\",
+        "outputPath": "E:\\programming\\.net\\DotNetInAction1\\DotNetInAction1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emely\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\emely\\.dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
